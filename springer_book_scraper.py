@@ -1,7 +1,6 @@
 import os
 import requests
 import pandas as pd
-from tqdm import tqdm
 from io import StringIO
 
 SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1HzdumNltTj2SHmCv3SRdoub8SvpIEn75fa4Q23x0keU/gviz/tq?tqx=out:csv'
